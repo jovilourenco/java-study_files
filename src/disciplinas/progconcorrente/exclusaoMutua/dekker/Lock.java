@@ -1,4 +1,4 @@
-package progconcorrente.exclusaoMutua.dekker;
+package disciplinas.progconcorrente.exclusaoMutua.dekker;
 
 public interface Lock {
 	public void requestCS(int id);

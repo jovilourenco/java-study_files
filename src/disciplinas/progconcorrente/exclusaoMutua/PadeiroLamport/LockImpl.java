@@ -1,4 +1,4 @@
-package progconcorrente.exclusaoMutua.PadeiroLamport;
+package disciplinas.progconcorrente.exclusaoMutua.PadeiroLamport;
 
 public class LockImpl implements Lock{
 	volatile int N;

@@ -1,4 +1,4 @@
-package progconcorrente.exclusaoMutua.dekker;
+package disciplinas.progconcorrente.exclusaoMutua.dekker;
 
 public class LockImpl implements Lock{
 	volatile boolean wantCS[] = {false, false};int turn = 1;

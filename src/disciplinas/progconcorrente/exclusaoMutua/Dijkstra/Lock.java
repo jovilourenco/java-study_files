@@ -1,4 +1,4 @@
-package progconcorrente.exclusaoMutua.Dijkstra;
+package disciplinas.progconcorrente.exclusaoMutua.Dijkstra;
 
 public interface Lock {
 	public void requestCS(int id);

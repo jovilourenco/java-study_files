@@ -1,4 +1,4 @@
-package progconcorrente.exclusaoMutua.Dvbc;
+package disciplinas.progconcorrente.exclusaoMutua.Dvbc;
 
 public class LockImpl implements Lock{
 	volatile boolean wantCS[] = {false, false};

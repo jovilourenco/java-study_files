@@ -1,4 +1,4 @@
-package progconcorrente.exclusaoMutua.Peterson;
+package disciplinas.progconcorrente.exclusaoMutua.Peterson;
 
 public interface Lock {
 	public void requestCS(int id);

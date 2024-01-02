@@ -1,4 +1,4 @@
-package progconcorrente.exclusaoMutua.dekker;
+package disciplinas.progconcorrente.exclusaoMutua.dekker;
 
 public class MyLock extends Thread{
 	Lock lock;

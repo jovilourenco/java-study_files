@@ -1,4 +1,4 @@
-package progconcorrente.exclusaoMutua.Peterson;
+package disciplinas.progconcorrente.exclusaoMutua.Peterson;
 
 public class LockImpl implements Lock{
 	boolean wantCS[] = {false, false};

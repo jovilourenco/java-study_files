@@ -1,4 +1,4 @@
-package progconcorrente.sincronizacao.produtorConsumidor;
+package disciplinas.progconcorrente.sincronizacao.produtorConsumidor;
 
 public class Consumer extends Thread{
 	SingleBuffer buffer;

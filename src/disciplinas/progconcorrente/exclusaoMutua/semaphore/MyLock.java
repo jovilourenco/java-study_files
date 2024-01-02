@@ -1,9 +1,9 @@
-package progconcorrente.exclusaoMutua.semaphore;
+package disciplinas.progconcorrente.exclusaoMutua.semaphore;
 
 import java.util.concurrent.Semaphore;
 
-import progconcorrente.exclusaoMutua.Dvbc.Lock;
-import progconcorrente.exclusaoMutua.Dvbc.LockImpl;
+import disciplinas.progconcorrente.exclusaoMutua.Dvbc.Lock;
+import disciplinas.progconcorrente.exclusaoMutua.Dvbc.LockImpl;
 
 public class MyLock extends Thread{
 	Semaphore s;

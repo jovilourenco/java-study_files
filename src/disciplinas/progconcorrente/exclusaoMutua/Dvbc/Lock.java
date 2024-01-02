@@ -1,4 +1,4 @@
-package progconcorrente.exclusaoMutua.Dvbc;
+package disciplinas.progconcorrente.exclusaoMutua.Dvbc;
 
 public interface Lock {
 	public void requestCS(int id);

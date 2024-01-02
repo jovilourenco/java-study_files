@@ -1,4 +1,4 @@
-package progconcorrente.exclusaoMutua.Dijkstra;
+package disciplinas.progconcorrente.exclusaoMutua.Dijkstra;
 
 public class LockImpl implements Lock{
 	volatile int nproc, turn;

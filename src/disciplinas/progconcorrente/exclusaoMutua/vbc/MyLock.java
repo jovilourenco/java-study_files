@@ -1,4 +1,4 @@
-package progconcorrente.exclusaoMutua.vbc;
+package disciplinas.progconcorrente.exclusaoMutua.vbc;
 
 public class MyLock extends Thread{
 	Lock lock;

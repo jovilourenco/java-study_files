@@ -1,4 +1,4 @@
-package progconcorrente.exclusaoMutua.PadeiroLamport;
+package disciplinas.progconcorrente.exclusaoMutua.PadeiroLamport;
 
 public class MyLock extends Thread{
 

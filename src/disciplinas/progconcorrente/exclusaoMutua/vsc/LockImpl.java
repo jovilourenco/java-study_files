@@ -1,4 +1,4 @@
-package progconcorrente.exclusaoMutua.vsc;
+package disciplinas.progconcorrente.exclusaoMutua.vsc;
 
 public class LockImpl implements Lock{
 	
